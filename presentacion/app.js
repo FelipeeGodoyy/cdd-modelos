@@ -15,7 +15,7 @@
   const EQUIPO = [
     { rol: "Dominio y problema", nombre: "Eliel Lanzillotta" },
     { rol: "Arquitectura y datos", nombre: "Nicolas Iglesias" },
-    { rol: "Análisis exploratorio", nombre: "Integrante 3" },
+    { rol: "Análisis exploratorio", nombre: "Felipe Godoy" },
     { rol: "Técnica de minería", nombre: "Integrante 4" },
     { rol: "Conclusión y relato", nombre: "Integrante 5" },
     { rol: "Aplicación funcional", nombre: "Bautista Gil Roces" },
